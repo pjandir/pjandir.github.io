@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: $lightGray;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 2px solid $gray; //lightGray
+  border-bottom: 2px solid $blue; //lightGray
 
   @include mobile {
     text-align: center;
@@ -273,7 +273,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid $darkerBlue;
   border-bottom: 0px solid #ddd; //1px
   background-color: $mediumGray;
 }
