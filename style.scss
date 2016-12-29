@@ -18,14 +18,14 @@ html {
 }
 
 body {
-	background: $white;
+  background: $lightGray;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 900px; //740
   padding: 0 10px;
   width: 100%;
 }
@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 2px solid $gray; //lightGray
 
   @include mobile {
     text-align: center;
@@ -214,7 +214,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 22px; //18px
 
   @include mobile {
     float: none;
@@ -274,11 +274,12 @@ nav {
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-bottom: 0px solid #ddd; //1px
+  background-color: $mediumGray;
 }
 
 footer {
+  background: $mediumGray; //see wrapper footer
   padding: 20px 0;
   text-align: center;
 }
