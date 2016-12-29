@@ -3,8 +3,10 @@ layout: post
 title: My first post!
 ---
 
-Welcome to my blog! This is my first attempt at a blog. I am still playing around with the style/theme of this site but posts with actual substance will 
-start to be put up. Expect to see data analysis and visualization posts catering to my tastes (and maybe yours). 
+Welcome to my blog! This is actually my first attempt at anything of the sort so it should be fun. 
+I am still playing around with the style and theme of this site but posts with actual substance will 
+start to be put up. Expect to see data analysis and visualization posts catering to my tastes 
+(and maybe yours). 
 
 <!--
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
