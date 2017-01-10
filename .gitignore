@@ -10,4 +10,4 @@ node_modules
 package.json
 _drafts/
 .Rproj.user
-*.Rproj
+*.R*
