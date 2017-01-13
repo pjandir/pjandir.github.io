@@ -17,12 +17,3 @@ try to draw insights and visualizations from its related data. Hopefully you fin
   </figcaption>
 </figure>
 
-
-<!--
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
--->
-
