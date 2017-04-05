@@ -1,4 +1,5 @@
 
+//All backtick highlighted words
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
@@ -8,13 +9,14 @@
   box-shadow: 3px 3px rgba(0,0,0,0.1);
   margin: 20px 0 20px 0;
   overflow: scroll;
+  font-size: 14px; //font size inside code blocks
 }
 
-//For code blocks
+//Only for words in highlights
 code {
   background-color: #efefef;
-  padding: 2px 4px;
-  //border: 1px solid #DDDBCC;
+  padding: 2.5px 0px; //adds spurious space on first line of real code block, so zero 2nd argument
+  ///border: 1px solid #DDDBCC;
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
 
