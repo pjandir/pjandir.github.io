@@ -4,16 +4,33 @@ title: About
 permalink: /about/
 ---
 
-This is my personal blog featuring some of my interests like sports and (pop) culture. These posts 
-try to draw insights and visualizations from its related data. Hopefully you find it interesting as well. 
+<br>
+
+<center><i>[T]he cosmos is also within us. We&#8217;re made of star stuff. We are a way for the cosmos to know itself.</i></center> 
+<div align="right">- Carl Sagan, <b>Cosmos</b></div>
 
 <br>
 
+Hi, this is my personal site and blog. It is a place for some of my projects, interests (like sports or food), 
+and whatever else strikes my fancy. These posts will often feature data and insights thereof.   
+
+My background is in physics which entranced me in my junior year of high school. In fact, I grew so
+attached I continued studying it in both undergraduate and graduate school, for a full decade. I am
+transitioning from academia to industry where I wish to keep tackling difficult problems and solving them
+with various tools, techniques and technologies.  
+
+Born and raised in the Bay Area, I prefer blue skies and a warm sun. I love listening to music, road biking, 
+and beard-making. I enjoy getting lost in elaborate and detailed sci-fi/fantasy worlds like those found in 
+Star Wars, Warcraft, Stargate, and various comics. Spending time with loved ones is my best therapy.  
+
+<br>
+
+<center>One of my lifelong inspirations.</center>
 <figure>
-  <p style="text-align:center;"><img src="http://cds.cern.ch/record/628469/files/9710002_10.jpeg?subformat=icon-640" style="width:50%;"/></p>
+  <p class="center"><img src="https://media.stsci.edu/uploads/image/display_image/3471/low_hs-2015-01-c-display.png" style="width:150%;"/></p>
   <figcaption>
-    <center><a href="http://cds.cern.ch/record/628469/files/9710002_10.jpeg?subformat=icon-640">Photo</a> by <a href="http://cds.cern.ch/record/628469">Lucas Taylor/CERN</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA-4.0</a></center> 
-    <center>(<i>also used in site masthead</i>)</center>
+    <center>Revisiting the Pillars of Creation in <a href="http://hubblesite.org/image/3471/news_release/2015-01">2014</a></center> 
+    <center>(<i>Credits: NASA, ESA, and the Hubble Heritage Team</i>)</center>
   </figcaption>
 </figure>
 

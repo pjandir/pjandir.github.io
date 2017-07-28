@@ -297,6 +297,21 @@ footer {
 .center {
     text-align: center;
 }
+//Also add right justify text class
+.right {
+    text-align: right;
+}
+//Somehow normal blockquotes were not already here..
+blockquote {
+    display: block;
+    margin: 1.8em .8em;
+    border-left: 5px solid $mediumGray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 18px;
+    font-style: italic;
+}
+
 
 //Define super and sub scripts
 sub,
