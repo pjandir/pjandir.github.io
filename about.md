@@ -11,17 +11,18 @@ permalink: /about/
 
 <br>
 
-Hi, this is my personal site and blog. It is a place for some of my projects, interests (like sports or food), 
+Hi, this is my personal site and blog! It is a place for some of my projects, interests (like sports or food), 
 and whatever else strikes my fancy. These posts will often feature data and insights thereof.   
 
 My background is in physics which entranced me in my junior year of high school. In fact, I grew so
 attached I continued studying it in both undergraduate and graduate school, for a full decade. I am
 transitioning from academia to industry where I wish to keep tackling difficult problems and solving them
-with various tools, techniques and technologies.  
+with various tools, techniques and technologies. Currently, I am enjoying myself as a Data Scientist at 
+Goodyear where we are exploring the Mobility space. 
 
-Born and raised in the Bay Area, I prefer blue skies and a warm sun. I love listening to music, road biking, 
-and beard-making. I enjoy getting lost in elaborate and detailed sci-fi/fantasy worlds like those found in 
-Star Wars, Warcraft, Stargate, and various comics. Spending time with loved ones is my best therapy.  
+Born and raised in the Bay Area, I prefer blue skies and a warm sun. I enjoy listening to music, dancing, road biking, 
+and beard-making. I love getting lost in elaborate and detailed sci-fi/fantasy worlds like those found in 
+Star Wars, Stargate, various comics, and many more. Spending time with loved ones is my best therapy.  
 
 <br>
 
